@@ -36,7 +36,7 @@ simple Microcontroller Peripherals which contains:
 ####Design in synthesized.
 ####Area, timing, constraint are reported
 
-![Design] (https://github.com/amrragab/Sticker/blob/master/screenshots/register.png)
+![Design] (https://github.com/abdallahmagdy1993/Micro-Controller-VLSI/blob/master/Design.PNG)
 
 
 #Tools
